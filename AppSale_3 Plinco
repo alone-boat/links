@@ -5,8 +5,8 @@
 "campaigns": [
         {
             "id": "campaign1",
-            "https://hiwyceu4.xyz/yHSwmDr3": "link1",
-            "4d7add57-063b-4382-97c5-04f2268a4ef5": "one_signal1",
+            "link": "https://hiwyceu4.xyz/yHSwmDr3",
+            "onesignal": "4d7add57-063b-4382-97c5-04f2268a4ef5",
         },
         {
             "id": "campaign2",
