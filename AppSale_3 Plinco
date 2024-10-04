@@ -1,7 +1,18 @@
 {
 "falling":"ball",
-"url":"https://hiwyceu4.xyz/yHSwmDr3",
+"url":"",
 "one_signal":"4d7add57-063b-4382-97c5-04f2268a4ef5",
 "apps_flyer":"iLDM6636BSqKF7BdGecEMd",
 "game": "off"
+"campaigns": [
+        {
+            "id": "campaign1",
+            "https://hiwyceu4.xyz/yHSwmDr3": "link1",
+        },
+        {
+            "id": "campaign2",
+            "link": "link2",
+        }
+]
+
 }
