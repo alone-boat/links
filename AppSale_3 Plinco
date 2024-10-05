@@ -1,7 +1,7 @@
 {
 "falling":"ball",
 "apps_flyer":"iLDM6636BSqKF7BdGecEMd",
-"game": "off"
+"game": "off",
 "campaigns": [
         {
             "id": "campaign1",
