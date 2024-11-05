@@ -1,13 +1,14 @@
 {
-"falling":"ball",
+"tropic":"ballgame",
 "apps_flyer": "iLDM6636BSqKF7BdGecEMd",
 "game": "on",
-"url": "https://hiwyceu4.xyz/yHSwmDr3",
+"url_backend": "https://in.pinball-plinco.com/",
+"url": "https://gimanou9.xyz/dhY9Mccj",
 "campaigns": [
         {
-            "id": "campaign1",
-            "link": "https://hiwyceu4.xyz/yHSwmDr3",
-            "onesignal": "4d7add57-063b-4382-97c5-04f2268a4ef5",
+            "id": "",
+            "link": "",
+            "onesignal": "",
         },
         {
             "id": "campaign2",
